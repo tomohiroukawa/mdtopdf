@@ -1,4 +1,4 @@
-module github.com/mandolyte/mdtopdf
+module github.com/tomohiroukawa/mdtopdf
 
 go 1.15
 
